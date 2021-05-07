@@ -1,4 +1,4 @@
-# Jupyter Powertools
+# Plotly Chart Editor for Jupyter Notebooks
 
 A [Visual Studio Code](https://code.visualstudio.com/) [extension](https://marketplace.visualstudio.com/items?itemName=donjayamanne.vscode-plotly-editor) that provides a Plotly Chart Editor when rendering Plotly Charts.
 
